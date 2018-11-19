@@ -1,2 +1,4 @@
 # hello-world
-Good old hello world repo
+Hi
+
+I'm really into cycling as my main form of exercise.
